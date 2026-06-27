@@ -7,11 +7,6 @@
   align-items: center;
 }
 
-.page-nav {
-  display: flex;
-  align-items: center;
-}
-
 .header-logo {
   margin-right: 76px;
   font-family: 'Raleway', sans-serif;
@@ -25,6 +20,11 @@
 
 .logo-accent {
   color: #4d5ae5;
+}
+
+.page-nav {
+  display: flex;
+  align-items: center;
 }
 
 .nav-list {
